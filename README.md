@@ -19,7 +19,7 @@ By simply providing a prompt such as "2 days trip to London with budget $1000," 
 To run the Travel Planner AI, follow these steps:
 
 1. Clone the repository : git clone [https://github.com/battlebeast53/AI-Trip-Planner](https://github.com/battlebeast53/AI-Trip-Planner) 
-2. Navigate to the project directory : cd travel-planner-ai
+2. Navigate to the project directory : cd AI-Trip-Planner
 3. Install npm first
 4. Install pnpm by running this command inside project directory :  npm install -g pnpm@latest-10
 5. Install the dependencies by running this command : pnpm install
