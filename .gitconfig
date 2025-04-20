@@ -1,0 +1,9 @@
+#Default GitHub 
+Host github.com
+  HostName github.com
+  User git
+  IdentityFile id_ed25519_battlebeast53
+
+[user]
+    name = Harshit
+    email = harshitpandhare@gmail.com
